@@ -54,7 +54,7 @@ console.log(x);
   Dimostra l'impossibilità di riassegnare un valore ad una variabile dichiarata con il costrutto const.
 */
 
-//  const Name= "Assennato"
+// const Name= "Assennato" messo nei commenti perche da come errore:Identifier 'Name' has already been declared
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
